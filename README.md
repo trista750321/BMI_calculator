@@ -10,7 +10,7 @@ Date: Sep 9, 2021
 
 Body mass index (BMI) is a measure of body fat based on height and weight. Based on the BMI of the individual, it will print a statement stating the overall health of the person.
 
-**II.Code Explanation**
+**II. Code Explanation**
 
 1. Ask the user to input their height and weight - convert the input stringto float to perform calculation
 
